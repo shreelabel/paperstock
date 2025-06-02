@@ -2,10 +2,10 @@
 // Database configuration - PDO connection for MySQL
 
 // Option 2: MySQL
-$host = 'localhost';
-$username = 'root';
-$password = 'root';
-$database = 'bappa';
+$host = 'sql101.infinityfree.com';
+$username = 'if0_39085666';
+$password = 'OR2McjtktWJg';
+$database = 'if0_39085666_shreelabelpaperstock';
 
 $dsn = "mysql:host=$host;dbname=$database;charset=utf8mb4";
 $options = [
